@@ -28,7 +28,7 @@
     }
   ],
   "dependencies": {
-    "@paulcbetts/edge-cs": "^1.0.0",
+    "@paulcbetts/edge-cs": "https://github.com/paulcbetts/edge-cs/tarball/master",
     "nan": "^2.0.9"
   },
   "devDependencies": {
